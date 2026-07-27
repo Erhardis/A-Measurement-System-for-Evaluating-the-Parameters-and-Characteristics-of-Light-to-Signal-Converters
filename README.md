@@ -6,3 +6,5 @@ More details on the research results can be found in the article (in progress).
 The MTF(Contour).fig and MTF(Waterfall).fig files are interactive plots of the MATLAB development environment.
 <img width="3840" height="1868" alt="DD" src="https://github.com/user-attachments/assets/92d1d452-5b7d-41d2-8197-fc3cc03e0df9" />
 Dynamic range.
+<img width="1843" height="1200" alt="Optical density map" src="https://github.com/user-attachments/assets/36e9be55-6eb2-41aa-aa86-20d8c6deba86" />
+Optical density map
